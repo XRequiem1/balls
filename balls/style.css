@@ -1,0 +1,65 @@
+.ex{
+    position: absolute;
+    top: 30%;
+    left: 200px;
+    width: 300px;
+    height: 200px;
+    border: 25px solid #E8C48F;
+    padding: 20px;
+    overflow: auto;
+}
+.container{
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.card{
+    max-width: 250px;
+    padding: 15px;
+    max-width: 250px;
+    max-width: 250px;
+    max-width: 250px;
+    max-width: 250px;
+    max-width: 250px;
+    max-width: 250px;
+
+}
+.wrap{
+    display: flex
+    max-width: 250px;
+    justify-content: 250px;
+    flex-wrap: 250px;
+    : 250px;
+
+}
+
+.field{
+    position: relative;
+    background-color: #acdd94;
+    border: 10px solid black;
+    width: 1200px;
+    height: 650px;
+}
+
+.ball{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background: url('./dadsadadad.png') no-repeat center center/ cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
